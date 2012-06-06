@@ -1,0 +1,6 @@
+GnuCash-3part-check
+===================
+
+A 3-part check format for GnuCash, based on the Quicken/Quickbooks 
+default.  To use, just copy the quicken_3part.chk file into 
+./gnucash/checks in your home directory.
